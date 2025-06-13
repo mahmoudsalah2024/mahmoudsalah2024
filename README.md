@@ -26,7 +26,7 @@
 ### 💻 المهارات والتقنيات
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxt,bootstrap,figma,mongodb,firebase,git,github,vercel" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxt,bootstrap,figma,mongodb,git,github,vercel" />
 </p>
 
 ---
