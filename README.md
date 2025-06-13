@@ -32,16 +32,6 @@
 
 ---
 
-### 📈 إحصائيات GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmoudsalah&show_icons=true&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudsalah&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ### 📝 اقتباسي المفضل
 > “Focus on building *useful* UIs, not just *beautiful* ones.” — Mahmoud Salah
 
