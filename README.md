@@ -15,19 +15,19 @@
 
 ---
 
-### 📫 تواصل معايا
-
-- 📧 البريد الإلكتروني: [mahmoudeahmed.salah@gmail.com](mailto:mahmoudeahmed.salah@gmail.com)  
-- 📱 موبايل: 01061775567 / 01155676154  
-- 💼 [LinkedIn](https://linkedin.com/in/mahmoudsalah1)
-
----
-
 ### 💻 المهارات والتقنيات
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxt,bootstrap,figma,mongodb,git,github,vercel" />
 </p>
+
+---
+
+### 📫 تواصل معايا
+
+- 📧 البريد الإلكتروني: [mahmoudeahmed.salah@gmail.com](mailto:mahmoudeahmed.salah@gmail.com)  
+- 📱 موبايل: 01061775567 / 01155676154  
+- 💼 [LinkedIn](https://linkedin.com/in/mahmoudsalah1)
 
 ---
 
