@@ -8,11 +8,10 @@
 
 ### 💼 عني
 
-- 🔭 أعمل حاليًا على لوحة تحكم المتجر الإلكتروني [سوقية](https://your-dashboard-link.com)
 - 🧠 أستخدم Nuxt 3 + Vuetify + MongoDB لبرمجة الواجهات ولوحة التحكم
 - 🌐 عندي خبرة في تصميم واجهات عربية احترافية (فاتحة & داكنة)
-- 🛠️ استخدمت تقنيات متنوعة مثل Firebase، SSE، Pixlr API، وStripe
-- 🧾 سيرتي الذاتية: [تحميل CV](https://your-cv-link.com/mahmoud-salah-resume.pdf)
+- 🛠️ استخدمت تقنيات متنوعة مثل SSE، Stripe
+- 🧾 سيرتي الذاتية: [تحميل CV](https://drive.google.com/file/d/1oOZJr6rZF5ulXjRhLrzunUndF_jxCsqs/view?usp=sharing)
 
 ---
 
